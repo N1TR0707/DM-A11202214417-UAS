@@ -6,7 +6,7 @@ Sebagai seseorang yang baru saja memasuki dunia kerja, mungkin kita semua akan m
 ## Asset
 
  - [Dataset](https://github.com/N1TR0707/DM-A11202214417-UAS/tree/main/Dataset)
- - [Interactive Python Notebook](https://github.com/N1TR0707/DM-A11202214417-UAS/blob/main/Analisis%20Kesejahteraan%20Pekerja%20Di%20Indonesia.ipynb)
+ - [Interactive Python Notebook](https://github.com/N1TR0707/DM-A11202214417-UAS/blob/main/Analisis_Kesejahteraan_Pekerja_Di_Indonesia.ipynb)
  - [Power Point Presentasi](https://github.com/N1TR0707/DM-A11202214417-UAS/blob/main/PPT%20Analisis.pptx)
 
 
